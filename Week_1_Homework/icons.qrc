@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Settings">
+        <file>icons500.png</file>
+        <file>fdgs.png</file>
+        <file alias="AllSetIcon">icons8512.png</file>
+        <file alias="RowColIcon">45.png</file>
+        <file alias="InOutIcon">4556.png</file>
+    </qresource>
+    <qresource prefix="/Cal">
+        <file alias="Cal">cal.png</file>
+    </qresource>
+    <qresource prefix="/new">
+        <file alias="Close">78.png</file>
+        <file alias="x08">54.png</file>
+        <file alias="x12">65.png</file>
+    </qresource>
+</RCC>
